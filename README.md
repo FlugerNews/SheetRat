@@ -2,3 +2,4 @@
 Новый Ратник Sheet Rat
 от Doxing Community
 VK -> https://vk.com/club227385298
+Гайд на Sheet Rat -> https://youtu.be/3dqZ91DlD_o
