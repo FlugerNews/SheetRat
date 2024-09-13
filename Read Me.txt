@@ -1,0 +1,11 @@
+English bio
+------------
+Off Antivirus
+Run SheetRat-Cleaned.exe
+You Need Port only Playit.gg or Ngrok
+------------
+Russian bio
+-----------
+Советую отключить антивирус
+2. Чтобы использовать sheet rat вам нужен порт playit.gg
+3. Запускайте SheetRat-Cleaned.exe
